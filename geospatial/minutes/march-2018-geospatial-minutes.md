@@ -16,9 +16,15 @@ Attending (meeting one):
 Attending (meeting two):
 - Erin Becker
 - Michele Tobias
+- Stace Maples
+- Leah Wasser
+- Chris Prener
+- Anne Fouilloux
 
 Detailed Agenda: https://docs.google.com/document/d/1VG34gKSzQZg-wrvAuDSp-ExCnVZamc6AcAvfzTsemUc
-    
+
+* Megan Jones - unfortunately my schedule is precluding me from attending both meetings. However, I'm happy to answer questions about NEON data.  We are pulling together an updated data set including the SJER & HARV sites for other teaching materials. I'd be happy to share that data with the group if it is desired. 
+
 1) Plotting systems
 Static plotting:
 - Deciding between base R / ggplot / tmap for teaching static plotting. 
@@ -48,7 +54,7 @@ If the goal is to quickly vizualize something and do analysis, mapview.
 - Mapview outputs a leaflet object. Would be possible to use mapview to generate a leaflet object. Could then pull it out and customize it. 
 
 Decision: 
-- No decision. Dependent on target audience. 
+- Six of eight CAC members voiced support for using leaflet. Keep syntax relatively simple. Leah has a sample lesson teaching leaflet that she will contribute to the Maintainers for them to use as a resource for developing this part of the lesson.
 
 3) Learner level
 - Currently lessons don't include any introduction to R. Instructors have been teaching ad hoc introductions to R. Some audiences need the
@@ -58,10 +64,32 @@ to teach the lessons.
 - Can skip the introduction to R if learners have programming experience. 
 - Can use the introduction to R lessons from the r-gapminder-novice lessons for SWC. Can tie these data into geospatial and get a 
 global perspective. 
+- The lessons currently are a mix of teaching geospatial concepts and teaching how to implement geospatial analyses in R. Can pull out some of the introductory concepts (data formats, project organization) from http://www.datacarpentry.org/r-spatial-data-management-intro/ and make them their own repo/lesson. Needs a lot of restructuring. 
 
 Decision:
 - Use the r-novice-gapminder lessons as a basis for creating an introduction to R for geospatial. 
 - Copy over these lessons and start modification. 
+
+Decision on lesson organization:
+- Repo 1: 
+    - modified from https://github.com/datacarpentry/r-spatial-data-management-intro/
+    - Episode 1: Spatial data formats
+        - file types
+            - vector file types, what is a shapefile, what is a geojson object
+            - raster file types
+            - geospatial databases?
+            - geographic and projected coordinate systems - what they are, why they matter, how to select them
+    - Episode 2: Project organization and management
+        - some from https://github.com/datacarpentry/r-spatial-data-management-intro/blob/master/_episodes_rmd/02-spatial-data-formats.Rmd
+    - Episode 3: Spatial data landscape
+
+- Repo 2: Introduction to R for Spatial Data
+    - modified from https://github.com/swcarpentry/r-novice-gapminder (episodes 1-6?)
+
+- Repo 3: Raster and Vector Lesson
+    - modified from https://github.com/datacarpentry/R-spatial-raster-vector-lesson
+
+Note: Teach data cleaning in the context of the other lessons, not in the first lesson. It is easier to understand once people understand data structures.
 
 2) Docker images
 - Deciding whether to use a Docker image for installation. 
@@ -71,11 +99,12 @@ a lot of workshop time and success not guaranteed.
 - Geospatial data are very large. Usually wouldn't work on your laptop. A proper workflow would teach cloud. 
 - Precedent in Data Carpentry Genomics lessons for working with pre-installed software (in that case on AWS). 
 - With a Docker image, students may not be able to get back into the materials on their own. Harder to use the knowledge they've gained.
+- Docker reduces the possible points of failure. 
 - Could introduce Docker and at the end of the lesson provide learners with materials for installing software on their own.
 - Could have Docker available as a backup for people who aren't able to get the install working. 
 
 Decision:
-- No decision, but leaning towards providing something as a backup for people who have installation issues. Either AWS or Docker image. 
+- Have a couple of the Maintainers test installing all of the software for these lessons on the three major platforms (Mac OS, Linux, Windows) and note any issues. Add these to the setup instructions for the lessons. Set up a Docker image as a backup and also add to the setup instructions. 
 
 
 4) Topic domains
@@ -94,3 +123,20 @@ to them. A bit ambitious. Natural earth package (rnaturalearth).
 Decision:
 - Add demographic data to the lesson in time cleared by moving from base R plotting to ggplot. 
 - No specific decision about which demographic data to add.
+
+5) Other notes
+- Support was voiced for developing non-R based lessons in the future. Particularly for Python or GDAL (geodata spatial abstraction library). 
+- Ideas for other lessons:
+    - Leveraging Geocoding and other APIs with OpenRefine
+    - GDAL and OGR for Geospatial Data (maybe with Python?)
+    - Visualization for Publication (This could be geo, or general)
+
+Action items:
+- Erin: compose notes and update repo
+- Erin: Email CAC with decisions from conversations and confirm
+- Erin: Coordinate with Maintainers about
+    - converting static plotting to ggplot
+    - writing new content for interactive plotting with leaflet (Leah has an example lesson)
+    - testing out installations on Windows, Mac, Linux and coordinating a docker image as a backup
+    - pulling out the sections listed above for the intro to geospatial data lesson and creating a new repo
+    - creating a copy of the r-novice-gapminder lesson and modifying for geospatial data
