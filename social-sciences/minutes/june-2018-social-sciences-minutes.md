@@ -9,7 +9,8 @@ Attending (meeting one):
 - Stephen Childs  
 - Peter Smyth  
 - Scott Peterson  
-- Reka Solymosi  
+- Reka Solymosi 
+- Christopher Prener
 
 Attending (meeting two):  
 - Erin Becker  
