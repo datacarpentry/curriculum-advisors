@@ -9,9 +9,11 @@ about CAC structure and duties can be found in [The Carpentries Handbook](https:
 As of January 2022, 
 the following Curriculum Advisory Committees are active for Data Carpentry:
 
-- Astronomy
-- Genomics
-- Geospatial
+| Committee Name  | Curriculum | Email | GH Team |
+| --------------  | ---------- | ----- | ------- |
+| Astronomy | | [Rendered](https://datacarpentry.github.io/astronomy-python) / [Repo](https://github.com/datacarpentry/astronomy-python)| | | 
+| Genomics | | [Rendered](https://datacarpentry.org/genomics-workshop) / [Repo](https://github.com/datacarpentry/genomics-workshop) | [curriculum-advisors-genomics@lists.carpentries.org](mailto:curriculum-advisors-genomics@lists.carpentries.org) | |
+| Geospatial | [Rendered](https://datacarpentry.org/geospatial-workshop) / [Repo](https://github.com/datacarpentry/geospatial-workshop/)| [curriculum-advisors-geospatial@lists.carpentries.org](mailto:curriculum-advisors-geospatial@lists.carpentries.org) | |
 
 The following Curriculum Advisory Committees are inactive:
 
@@ -21,7 +23,14 @@ The following Curriculum Advisory Committees are inactive:
 
 ## How to Contact the Curriculum Advisory Committee
 
-## How to Record Minutes
+Add information about posting to Curriculum Advisor TopicBox lists and using GitHub teams
+to `@` tag in CAC. Community members can also notify the Core Team of any issues they
+would like brought to the CAC's attention by emailing team@carpentries.org. 
+
+## Onboarding Information for Curriculum Advisors
+
+
+### How to Record Minutes
 
 For each meeting, the CAC Secretary will create a minutes file with a title of the format `MONTH-YYYY-CURRICULUM-minutes.md` (e.g. March-2022-genomics.md). 
 The Secretary will submit a pull request. The Chair will review the pull
