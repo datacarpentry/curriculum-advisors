@@ -11,9 +11,9 @@ the following Curriculum Advisory Committees are active for Data Carpentry:
 
 | Committee Name  | Curriculum | Email | GH Team |
 | --------------  | ---------- | ----- | ------- |
-| Astronomy | | [Rendered](https://datacarpentry.github.io/astronomy-python) / [Repo](https://github.com/datacarpentry/astronomy-python)| | | 
-| Genomics | | [Rendered](https://datacarpentry.org/genomics-workshop) / [Repo](https://github.com/datacarpentry/genomics-workshop) | [curriculum-advisors-genomics@lists.carpentries.org](mailto:curriculum-advisors-genomics@lists.carpentries.org) | |
-| Geospatial | [Rendered](https://datacarpentry.org/geospatial-workshop) / [Repo](https://github.com/datacarpentry/geospatial-workshop/)| [curriculum-advisors-geospatial@lists.carpentries.org](mailto:curriculum-advisors-geospatial@lists.carpentries.org) | |
+| Astronomy | [Rendered](https://datacarpentry.github.io/astronomy-python) / [Repo](https://github.com/datacarpentry/astronomy-python)| | | 
+| Genomics | [Rendered](https://datacarpentry.org/genomics-workshop) / [Repo](https://github.com/datacarpentry/genomics-workshop) | [curriculum-advisors-genomics@lists.carpentries.org](mailto:curriculum-advisors-genomics@lists.carpentries.org) | @datacarpentry/curriculum-advisors-genomics |
+| Geospatial | [Rendered](https://datacarpentry.org/geospatial-workshop) / [Repo](https://github.com/datacarpentry/geospatial-workshop/) | [curriculum-advisors-geospatial@lists.carpentries.org](mailto:curriculum-advisors-geospatial@lists.carpentries.org) | @datacarpentry/curriculum-advisors-geospatial |
 
 The following Curriculum Advisory Committees are inactive:
 
