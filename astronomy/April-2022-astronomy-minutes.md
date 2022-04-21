@@ -49,7 +49,7 @@ There were initially two meetings arranged. But at the end, only one meeting too
 *  **Any major gaps (beyond the issues raised by previous workshop feedback)?**
 	- No major gaps.
 	- (Azalee) We had funding to hire a curriculum developer to do the major lift; since then it's been moving topics around, simplifying whether to write a function or not. Most current issues will be closed by current pull requests; others are flagged by what needs to be done before release.
-	- (Azalee) Worried that we don't have any data points on in-person. But don't think it's important to keep this in beta until we go in-person. Don't think anything will be a big enough change. [Consensus agreement]
+	-  Worried that we don't have any data points on in-person. But don't think it's important to keep this in beta until we go in-person. Don't think anything will be a big enough change. [Consensus agreement]
 
 *  **Other comments?**
 	- Image analysis w/Python will be another 2nd level curriculum.
