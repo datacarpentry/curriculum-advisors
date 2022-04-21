@@ -76,7 +76,7 @@ We have 2 meetings, we meet quarterly. **Should we have a space for async commun
 
     - Could do other data as a full new lesson 
 
-* Engage with the Carpentries incubator? The Carpentries Incubator is a place to share community developed lessons that are not curricula. 
+    - Engage with the Carpentries incubator? The Carpentries Incubator is a place to share community developed lessons that are not curricula. 
 
 * Goal could be to continue to look out for gaps in astro education that we can fill, whether that means funding for another curriculum developer or drafting mini lessons, etc. - $\textit{To discuss at our next synchronous meeting}$ 
 
