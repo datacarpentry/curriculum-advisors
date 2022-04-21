@@ -41,7 +41,10 @@ There were initially two meetings arranged. But at the end, only one meeting too
 	- Still need more data points as we transition to in-person and more people teach it.
 
 *  **What is the recommended level of participants?**
-	- It's not immediately clear that this curriculum is intermediate / advanced. It has prerequisites (it is "level 2").
+	- This is the first DC curriculum that has prerequisites (it is "level 2"). We want to be sure our audience is aware of this.
+	- prerequisites are listed at top of lesson
+	- this is something we will be sure to include in advertising
+	- there will soon be a second lesson with prerequisites - so this will be less unusual
 
 *  **Any major gaps (beyond the issues raised by previous workshop feedback)?**
 	- No major gaps.
