@@ -74,7 +74,7 @@ We have 2 meetings, we meet quarterly. **Should we have a space for async commun
 	- Need maintenance plan, need communication to instructors on what is "extra"
 	- Could happen on an institutional level so you could trade out the data and use case.
 
-* Could do other data as a full new lesson 
+    - Could do other data as a full new lesson 
 
 * Engage with the Carpentries incubator? The Carpentries Incubator is a place to share community developed lessons that are not curricula. 
 
