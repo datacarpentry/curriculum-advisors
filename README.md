@@ -5,7 +5,7 @@ This repository serves as a public record of meeting notes and decisions made by
 Information
 about CAC structure and duties can be found in [The Carpentries Handbook](https://docs.carpentries.org/topic_folders/lesson_development/lesson_development_roles.html#curriculum-advisory-committees). Current membership of each CAC can be accessed on the [Data Carpentry website](https://datacarpentry.org/curriculum-advisors/).
 
-As of January 2022, 
+As of March 2023, 
 the following Curriculum Advisory Committees are active for Data Carpentry:
 
 | Committee Name  | Curriculum | Email | GitHub Team |
