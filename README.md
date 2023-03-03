@@ -11,14 +11,12 @@ the following Curriculum Advisory Committees are active for Data Carpentry:
 | Committee Name  | Curriculum | Email | GitHub Team |
 | --------------  | ---------- | ----- | ------- |
 | Astronomy | [Lesson page](https://datacarpentry.github.io/astronomy-python) / [GitHub repository](https://github.com/datacarpentry/astronomy-python)| [curriculum-advisors-astronomy@lists.carpentries.org](mailto:curriculum-advisors-astronomy@lists.carpentries.org) | [@datacarpentry/curriculum-advisors-astronomy](https://github.com/orgs/datacarpentry/teams/curriculum-advisors-astronomy)| 
+| Ecology | [Lesson page](https://datacarpentry.org/ecology-workshop) / [GitHub repository](https://github.com/datacarpentry/ecology-workshop/) | [curriculum-advisors-ecology@lists.carpentries.org](mailto:curriculum-advisors-ecology@lists.carpentries.org) | [@datacarpentry/curriculum-advisors-ecology](https://github.com/orgs/datacarpentry/teams/curriculum-advisors-ecology) |
 | Genomics | [Lesson page](https://datacarpentry.org/genomics-workshop) / [GitHub repository](https://github.com/datacarpentry/genomics-workshop) | [curriculum-advisors-genomics@lists.carpentries.org](mailto:curriculum-advisors-genomics@lists.carpentries.org) | [@datacarpentry/curriculum-advisors-genomics](https://github.com/orgs/datacarpentry/teams/curriculum-advisors-genomics) |
 | Geospatial | [Lesson page](https://datacarpentry.org/geospatial-workshop) / [GitHub repository](https://github.com/datacarpentry/geospatial-workshop/) | [curriculum-advisors-geospatial@lists.carpentries.org](mailto:curriculum-advisors-geospatial@lists.carpentries.org) | [@datacarpentry/curriculum-advisors-geospatial](https://github.com/orgs/datacarpentry/teams/curriculum-advisors-geospatial) |
+| Image Processing | [Lesson page](https://datacarpentry.org/image-processing) / [GitHub repository](https://github.com/datacarpentry/image-processing/) | [curriculum-advisors-image@lists.carpentries.org](mailto:curriculum-advisors-image@lists.carpentries.org) | [@datacarpentry/curriculum-advisors-image](https://github.com/orgs/datacarpentry/teams/curriculum-advisors-image) |
+| Social Sciences | [Lesson page](https://datacarpentry.org/socialsci-workshop) / [GitHub repository](https://github.com/datacarpentry/socialsci-workshop/) | [curriculum-advisors-social-sciences@lists.carpentries.org](mailto:curriculum-advisors-social-sciences@lists.carpentries.org) | [@datacarpentry/curriculum-advisors-social-science](https://github.com/orgs/datacarpentry/teams/curriculum-advisors-social-science) |
 
-The following Curriculum Advisory Committees are inactive:
-
-- Ecology
-- Image Analysis
-- Social Science
 
 ## How to Contact the Curriculum Advisory Committee
 
