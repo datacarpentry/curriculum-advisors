@@ -43,4 +43,4 @@
     * Ulf: not sure what the mechanism would be to solicit new curriculum materials (Q for consideration by Carpentries Core Team?)
 
 * Adjourn
-    * next meeting is planned on [May 31, 2023, 18:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CAC+Meeting+DC+Image+Processing&iso=20230531T20&p1=1440&ah=1)
+    * next meeting is planned on [May 31, 2023, 20:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CAC+Meeting+DC+Image+Processing&iso=20230531T20&p1=1440&ah=1)
