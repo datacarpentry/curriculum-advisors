@@ -1,1 +1,0 @@
-This is a placeholder to make your CAC folder show up in GitHub. After your first meeting, remove this file and replace with your first meeting minutes. 
