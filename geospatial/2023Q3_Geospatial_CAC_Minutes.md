@@ -11,15 +11,17 @@ September 20th, 2023 (10am CDT, 11am EDT, 5pm CEST)
 - Paula Martinez Lavanchy (Guest)
 - Claudiu Forgaci (Guest)
 
-1. Introductions and Code of Conduct
-2. Previous Minutes:
+## 1. Introductions and Code of Conduct
+
+## 2. Previous Minutes:
 
     November 29, 2022: https://github.com/datacarpentry/curriculum-advisors/blob/main/geospatial/2022Q4_Geospatial_CAC_Minutes.md
 
     March 30, 2022: https://github.com/datacarpentry/curriculum-advisors/blob/main/geospatial/2022Q1_Geospatial_CAC_Minutes.md
 
-New Business:
-1. Data Carpentry for Geospatial data for targeting researchers in the Urbanism field (See also, Appendix)
+## New Business:
+
+### 1. Data Carpentry for Geospatial data for targeting researchers in the Urbanism field (See also, Appendix)
 
     * https://github.com/Rbanism/geospatial-data-carpentry-tud-2022-11
 
@@ -95,14 +97,15 @@ New Business:
 
     - CAC will decide when to invite for review in the lab
 
-Old Business:
-1. Python Fork of Lessons
+## Old Business:
+
+### 1. Python Fork of Lessons
 
    - Check back in with Ryan before next CAC meeting
 
    - Consistent process with proposed urbanism lesson
 
-3. Issues: (added to agenda by Mike)
+### 3. Issues: (added to agenda by Mike)
 
     * https://github.com/datacarpentry/r-intro-geospatial/issues/123
 
@@ -127,17 +130,17 @@ Old Business:
       - https://github.com/datacarpentry/r-raster-vector-geospatial/issues/368#issuecomment-1501300940
 
 
-4. deprecation of the sp, rgeos, and rgdal packages
+### 4. deprecation of the sp, rgeos, and rgdal packages
      
      - Thanks to the community! 
 
-Updates:
-1. Carpentries Workbench
+## Updates:
 
+### 1. Carpentries Workbench
 
-Appendix:
+## Appendix:
 
-Paula's E-mail:
+### Paula's E-mail:
 
 Dear Curriculum Advisory Committee Geospatial data,
  
