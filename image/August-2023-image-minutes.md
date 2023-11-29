@@ -14,7 +14,7 @@
 ### Agenda
 
 1. Contributing guide https://github.com/datacarpentry/image-processing/issues/296
-    * cf. also Transition to new import convention for sckit-image? https://github.com/datacarpentry/image-processing/issues/295
+    * cf. also Transition to new import convention for scikit-image? https://github.com/datacarpentry/image-processing/issues/295
 2. Marianne can share a story following the two Outreachy internships offered by scikit-image to report (qualitatively) on the potential dissemination of the DC Image Processing curriculum.
 3. Marianne would have a question (maybe something I missed with the Workbench transition? sorry this might be more maintainer-level than advisor-level): Now development (contribution) at https://github.com/datacarpentry/image-processing happens on `main` (not `gh-pages` anymore), right?
 4. Ulf plans to teach DC Image Processing in January 2024, online through Zoom, in collaboration with FZ Juelich/IHRS BioSoft and KIT. Currently planning for up to 300 seats.
@@ -27,11 +27,11 @@
    which is introducing the curriculum to new communities.
 3. Ulf and Toby clarified the branch handling after the transition to the Workbench:
    development is on main.
-4. Ulf's teaching of the curriculum on a large-scale (approx. 300 learners)
+4. Ulf's teaching of the curriculum on a large scale (approx. 300 learners)
    is an exciting next step that can hopefully be reproduced elsewhere.
 5. Toby added a great first contributor experience recently on the curriculum.
    There's a general agreement that introducing the curriculum to new communities
-   has the opportunity to widen it's developer and user reach.
+   has the opportunity to widen its developer and user reach.
 
 <details>
   <summary>
@@ -84,11 +84,11 @@
   - Suggested following the IP curriculum
   - Leading to interest in development e.g. an imaging community in Nigeria :tada:
   - "A way to contribute would be to follow/update/teach the lesson"
-  - Opporunities for further dissemination
+  - Opportunities for further dissemination
   - Hopefully spreading like mushrooms :mushroom: 
 
 * Upcoming training (US)
-  - Was contacted by future colleagues teaching the curriculum in a massively online 
+  - Was contacted by future colleagues teaching the curriculum in a MOOC 
   - First time teaching it :tada:
   - TH: interested to hear how it goes (need helpers!)
   - JM: open to others? can you share a link?
